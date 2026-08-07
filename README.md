@@ -16,12 +16,12 @@ Je conçois des applications web fiables, des API REST sécurisées et des solut
 
 ## À propos de moi
 
-- 🎓 Diplômé en Génie logiciel et actuellement en formation en Intelligence Artificielle
-- 💻 Orienté **Backend et Full Stack**, avec une spécialisation en **Java / Spring Boot**
-- 🔐 Expérience avec les API REST, JWT, Spring Security et la gestion des rôles
-- ☁️ Pratique de Docker, GitHub Actions, AWS EC2 et PostgreSQL
-- 🤖 J'approfondis Python, le Machine Learning et la mise en production de solutions IA
-- 🌍 Basé à Dakar et ouvert aux opportunités internationales, au télétravail et à la mobilité
+-  Diplômé en Génie logiciel et actuellement en formation en Intelligence Artificielle
+-  Orienté **Backend et Full Stack**, avec une spécialisation en **Java / Spring Boot**
+-  Expérience avec les API REST, JWT, Spring Security et la gestion des rôles
+-  Pratique de Docker, GitHub Actions, AWS EC2 et PostgreSQL
+-  J'approfondis Python, le Machine Learning et la mise en production de solutions IA
+-  Basé à Dakar et ouvert aux opportunités internationales, au télétravail et à la mobilité
 
 ## Stack technique
 
