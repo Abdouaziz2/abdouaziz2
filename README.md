@@ -1,180 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=220&section=header&text=Baye%20Abdoul%20Aziz%20Seck&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2F%20Spring%20Boot%20%7C%20Angular%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
+# Bonjour, je suis Baye Abdoul Aziz Seck 👋
 
-<br/>
+### Développeur Full Stack • Java / Spring Boot • Angular • Python
 
-<a href="https://bayecode.com">
-  <img src="https://img.shields.io/badge/Portfolio-BayeCode-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/Abdouaziz2">
-  <img src="https://img.shields.io/badge/GitHub-Abdouaziz2-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:contact@bayecode.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Abdouaziz2&style=for-the-badge&color=0A66C2&label=Profile+Views" />
+Je conçois des applications web fiables, des API REST sécurisées et des solutions numériques utiles aux entreprises africaines.
 
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Je+construis+des+API+REST+s%C3%A9curis%C3%A9es;Backend+%7C+Java+%2F+Spring+Boot;Full+Stack+%7C+Angular+%2F+React;J%27explore+l%27IA+et+le+Machine+Learning;Bas%C3%A9+%C3%A0+Dakar+%F0%9F%87%B8%F0%9F%87%B3+%7C+Ouvert+%C3%A0+l%27international" alt="Typing SVG" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-BayeCode-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bayecode.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdouaziz2-181717?style=for-the-badge&logo=github)](https://github.com/Abdouaziz2)
+[![Profile views](https://komarev.com/ghpvc/?username=Abdouaziz2&style=for-the-badge&color=0A66C2)](https://github.com/Abdouaziz2)
 
 </div>
 
-<br/>
+---
 
-## 👨🏾‍💻 À propos de moi
+## À propos de moi
 
-```yaml
-nom: Baye Abdoul Aziz Seck
-role: Développeur Full Stack (Backend orienté)
-formation: Génie logiciel + Intelligence Artificielle (en cours)
-specialite: Java / Spring Boot, API REST sécurisées
-localisation: Dakar, Sénégal 🇸🇳
-disponibilite: Ouvert au télétravail, à la mobilité et aux missions internationales
-```
+-  Diplômé en Génie logiciel et actuellement en formation en Intelligence Artificielle
+-  Orienté **Backend et Full Stack**, avec une spécialisation en **Java / Spring Boot**
+-  Expérience avec les API REST, JWT, Spring Security et la gestion des rôles
+-  Pratique de Docker, GitHub Actions, AWS EC2 et PostgreSQL
+-  J'approfondis Python, le Machine Learning et la mise en production de solutions IA
+-  Basé à Dakar et ouvert aux opportunités internationales, au télétravail et à la mobilité
 
-- 🎓 Diplômé en **Génie logiciel**, actuellement en formation **Intelligence Artificielle**
-- 🧠 Orienté **Backend & Full Stack**, spécialisé en **Java / Spring Boot**
-- 🔐 Expérience solide avec **API REST, JWT, Spring Security**, gestion des rôles et permissions
-- 🐳 À l'aise avec **Docker, GitHub Actions, AWS EC2, PostgreSQL**
-- 🤖 En pleine montée en compétence sur **Python, Machine Learning et mise en production IA**
-- 🌍 Basé à **Dakar**, ouvert aux opportunités **remote & internationales**
+## Stack technique
 
-<br/>
+### Backend
 
-## 🛠️ Stack technique
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend et mobile
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Données, cloud et DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Projets mis en avant
+
+| Projet | Description | Technologies |
+|---|---|---|
+| **OnCaisse Pay** | API de gestion des paiements scolaires avec authentification, suivi des transactions et tableau de bord. | Spring Boot, Spring Security, JWT, PostgreSQL, Docker, AWS |
+| **Saytu Edu** | ERP scolaire couvrant les élèves, enseignants, notes, absences, paiements et bulletins. | Laravel, React, Sanctum, MySQL |
+| [**Gems Flow Suite**](https://github.com/Abdouaziz2/gems-flow-suite) | Solution de gestion destinée aux bijouteries : stock, ventes, clients et opérations quotidiennes. | TypeScript, Web application |
+| [**Spring Boot CI/CD**](https://github.com/Abdouaziz2/spring-boot-deploymentci) | Démonstration d'un pipeline de build et de déploiement automatisé pour une API Java. | Java, Spring Boot, Docker, GitHub Actions |
+| [**Do It**](https://github.com/Abdouaziz2/Do-it-app-flutterForceN) | Application mobile de gestion des tâches réalisée avec Flutter. | Flutter, Dart |
+
+> Certains projets professionnels et académiques sont conservés dans des dépôts privés.
+
+## Objectifs actuels
+
+- Approfondir l'architecture Spring Boot et les microservices
+- Développer mes compétences en Intelligence Artificielle et MLOps
+- Construire des produits numériques adaptés aux besoins du marché africain
+- Rejoindre une équipe internationale en tant que développeur Backend ou Full Stack junior
+
+## Statistiques GitHub
 
 <div align="center">
 
-**Backend**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdouaziz2&show_icons=true&theme=transparent&hide_border=true&locale=fr)
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,laravel,php" />
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdouaziz2&layout=compact&theme=transparent&hide_border=true&locale=fr)
 
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,react,flutter,dart" />
-
-**Data, Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,githubactions,aws,git" />
+![GitHub streak](https://streak-stats.demolab.com?user=Abdouaziz2&theme=transparent&hide_border=true&locale=fr)
 
 </div>
 
-<br/>
-
-## 🚀 Projets mis en avant
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### Construisons quelque chose d'utile ensemble
 
-### 💳 OnCaisse Pay
-API de gestion des paiements scolaires avec authentification, suivi des transactions et tableau de bord.
+Je suis disponible pour des collaborations, des projets ambitieux et des opportunités en développement Backend ou Full Stack.
 
-`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker` `AWS`
-
-</td>
-<td width="50%">
-
-### 🎓 Saytu Edu
-ERP scolaire couvrant élèves, enseignants, notes, absences, paiements et bulletins.
-
-`Laravel` `React` `Sanctum` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💎 Gems Flow Suite
-Solution de gestion pour bijouteries : stock, ventes, clients et opérations quotidiennes.
-
-`TypeScript` `Web App`
-
-📎 [Voir le repo](https://github.com/Abdouaziz2/gems-flow-suite)
-
-</td>
-<td width="50%">
-
-### ⚙️ Spring Boot CI/CD
-Démonstration d'un pipeline de build et déploiement automatisé pour une API Java.
-
-`Java` `Spring Boot` `Docker` `GitHub Actions`
-
-📎 [Voir le repo](https://github.com/Abdouaziz2/spring-boot-deploymentci)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✅ Do It
-Application mobile de gestion des tâches réalisée avec Flutter.
-
-`Flutter` `Dart`
-
-📎 [Voir le repo](https://github.com/Abdouaziz2/Do-it-app-flutterForceN)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 🔒 Certains projets professionnels et académiques sont conservés dans des dépôts privés.
-
-<br/>
-
-## 🎯 Objectifs actuels
-
-<div align="center">
-
-| 🎯 Objectif | Statut |
-|---|---|
-| Approfondir l'architecture Spring Boot et les microservices | 🔄 En cours |
-| Développer mes compétences en IA et MLOps | 🔄 En cours |
-| Construire des produits numériques pour le marché africain | 🚀 Actif |
-| Rejoindre une équipe internationale (Backend / Full Stack junior) | 👀 Ouvert aux opportunités |
-
-</div>
-
-<br/>
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdouaziz2&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdouaziz2&layout=compact&theme=tokyonight&hide_border=true&locale=fr" width="42%" />
-
-<img src="https://streak-stats.demolab.com?user=Abdouaziz2&theme=tokyonight&hide_border=true&locale=fr" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdouaziz2&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Construisons quelque chose d'utile ensemble
-
-Je suis disponible pour des **collaborations**, des **projets ambitieux** et des opportunités en développement **Backend / Full Stack**.
-
-<a href="https://bayecode.com">
-  <img src="https://img.shields.io/badge/Visiter%20BayeCode-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/Abdouaziz2">
-  <img src="https://img.shields.io/badge/Voir%20mes%20repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=100&section=footer" width="100%"/>
+[Visiter BayeCode](https://bayecode.com)
 
 </div>
