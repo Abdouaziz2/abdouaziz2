@@ -56,7 +56,7 @@ Je conçois des applications web fiables, des API REST sécurisées et des solut
 |---|---|---|
 | **OnCaisse Pay** | API de gestion des paiements scolaires avec authentification, suivi des transactions et tableau de bord. | Spring Boot, Spring Security, JWT, PostgreSQL, Docker, AWS |
 | **Saytu Edu** | ERP scolaire couvrant les élèves, enseignants, notes, absences, paiements et bulletins. | Laravel, React, Sanctum, MySQL |
-| [**Gems Flow Suite**](https://github.com/Abdouaziz2/gems-flow-suite) | Solution de gestion destinée aux bijouteries : stock, ventes, clients et opérations quotidiennes. | TypeScript, Web application |
+| [**Inventa**](https://github.com/Abdouaziz2/gems-flow-suite) | Solution de gestion destinée aux bijouteries : stock, ventes, clients et opérations quotidiennes. | TypeScript, Web application |
 | [**Spring Boot CI/CD**](https://github.com/Abdouaziz2/spring-boot-deploymentci) | Démonstration d'un pipeline de build et de déploiement automatisé pour une API Java. | Java, Spring Boot, Docker, GitHub Actions |
 | [**Do It**](https://github.com/Abdouaziz2/Do-it-app-flutterForceN) | Application mobile de gestion des tâches réalisée avec Flutter. | Flutter, Dart |
 
