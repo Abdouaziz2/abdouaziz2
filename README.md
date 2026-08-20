@@ -6,7 +6,7 @@
 
 Je conçois des applications web fiables, des API REST sécurisées et des solutions numériques utiles aux entreprises africaines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BayeCode-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bayecode.com)
+[![LinkedIn](www.linkedin.com/in/baye-abdoul-aziz-seck-a762a9295)]
 [![GitHub](https://img.shields.io/badge/GitHub-Abdouaziz2-181717?style=for-the-badge&logo=github)](https://github.com/Abdouaziz2)
 [![Profile views](https://komarev.com/ghpvc/?username=Abdouaziz2&style=for-the-badge&color=0A66C2)](https://github.com/Abdouaziz2)
 
